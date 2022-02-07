@@ -36,6 +36,13 @@ You can use simple script file `startLibrary.sh` to start the library.
 ./startLibrary.sh
 ```
 
+## Stop library
+
+You can use simple script file `stopLibrary.sh` to stop the library.
+```
+./stopLibrary.sh
+```
+
 ## Library functions
 You can perform below 4 actions.
 
